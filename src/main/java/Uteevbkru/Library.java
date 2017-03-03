@@ -74,6 +74,7 @@ public class Library {
 				valid_paper = false;
 				System.out.println("It isn't valid paper!");
 			}
+			
 		}
 		return valid_paper;
 		//TODO свой exception!! может добавить базу данных!
